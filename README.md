@@ -22,3 +22,9 @@ series classification. IEEE access,6,
 ## 개발인원
 1. 방건호
 2. 정주호
+---
+## 참고자료
+- https://dzlab.github.io/timeseries/2018/11/25/LSTM-FCN-pytorch-part-1/
+- Karim, F., Majumdar, S., Darabi, H., & Chen, S.
+(2017). LSTM fully convolutional networks for time
+series classification. IEEE access,6,
