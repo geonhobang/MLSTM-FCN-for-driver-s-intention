@@ -18,6 +18,7 @@ series classification. IEEE access,6,
 ## 기타사항
 - 본 프로젝트에 사용된 데이터는 외부에서 구입한 데이터로 따로 배포할 수 없습니다.
 - 모델의 Input Data는 각종 센서로부터 받아온 시계열 데이터가 Pandas와 Sklearn, torch.util.data.Dataload를 통해 (Batch size, Time step, Feature)로 변환됩니다.
-## 실행
-- Data폴더에 사용할 시계열 데이터(csv)를 저장합니다.
-- 코드를 실행합니다.
+---
+## 개발인원
+1. 방건호
+2. 정주호
